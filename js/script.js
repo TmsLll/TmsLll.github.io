@@ -11,6 +11,7 @@ let boton9 = document.getElementById('boton9');
 let boton10 = document.getElementById('boton10');
 let controles = document.getElementById('seccionControles')
 
+
 botonTxt.addEventListener('click', muestraTxt);
 botonPlayPause.addEventListener('click', playPause);
 boton2.addEventListener('click', selCanvas1);
